@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# 香港行動安全手冊
+呢本手冊係為左保障香港抗爭者嘅行動安全而寫。任何人都可以去我地嘅[GitHub repo](https://github.com/hkopsecgroup/hkopsecgroup.github.io)上面修改或添加新內容，請用**Pull Request**。
 
-You can use the [editor on GitHub](https://github.com/hkopsecgroup/hkopsecgroup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## OPSEC (Operational Security) 嘅定義
+行動安全(OPSEC) 係一門針對避免泄漏情報嘅學問。假如有情報泄漏咗畀敵方，好可能導致整個行動失敗，甚至影響當事人、同伴嘅安全。行動之前，需要分析整個行動所依賴嘅情報，訂立一層層嘅防禦手段以確保密性。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Loose Lips Might Sink Ships](./media/loose_lips_might_sink_ships.jpg)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hkopsecgroup/hkopsecgroup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 目錄
+1. TODO
+2. TODO
+3. TODO
